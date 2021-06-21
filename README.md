@@ -1,0 +1,7 @@
+My name is Pedro Faria and I am a software developer.
+My background is in Mathematics and Computer Science. My current focus is on web development.
+
+I have several different interests, many of which focus on the use of software to tackle problems of some social and worldly relevance.
+If you are interested in taking a look at my projects, go to my website, at https://pedrodlafaria.github.io/
+
+You can reach out to me on my Linkedin profile: https://www.linkedin.com/in/pedrodlafaria/
