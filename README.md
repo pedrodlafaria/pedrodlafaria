@@ -4,4 +4,4 @@ My background is in Mathematics and Computer Science. My current focus is on web
 I have several different interests, many of which focus on the use of software to tackle problems of some social and worldly relevance.
 If you are interested in taking a look at my projects, go to my website, at https://pedrodlafaria.github.io/
 
-You can reach out to me on my Linkedin profile: https://www.linkedin.com/in/pedrodlafaria/
+You can reach me on my Linkedin profile: https://www.linkedin.com/in/pedrodlafaria/
