@@ -7,7 +7,7 @@ My name is Pedro Faria and my background is mostly in Mathematics and Computer S
 ## Main professional activities
 
 I have several different interests, but my activities over the past few years have revolved around AI and Neuroscience, Software Development, and Computer Science in general.
-My past activities in AI have been mostly carried out by my teams at AKKA Research Benelux (Brussels, Belgium), for which reason you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my Linkedin page (below).
+My past activities in AI have been mostly carried out by my teams at AKKA Research Benelux (Brussels, Belgium), for which reason you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my [Linkedin page](https://www.linkedin.com/in/pedrodlafaria/).
 
 <br>
 
@@ -22,7 +22,9 @@ I use github to host a few other personal projects and experiments. The most int
 I find program analysis a very interesting field in general. A subfield that also interests me is formal verification and automatic theorem proving.
 Recent AI developments (LLMs) have also opened the door to exciting new applications in software analysis and development.
 
-Other areas that I find fascinating include: Governance models, and topics in Complexity Sciences (Economics, Finance, Business, etc). I have a few experiments here on GitHub around these topics.
+Other areas that I find fascinating include:
+- Neuroscience, Psychology, Learning, Productivity, and Social Dynamics (I have written quite a bit about these topics over the last 20 years).
+- Governance models, and topics in Complexity Sciences (Economics, Finance, Business, etc).
 
 I also have some interest in Physics, and Computational Biology, but no time to work on anything in these domains.
 
