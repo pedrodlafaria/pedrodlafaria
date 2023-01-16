@@ -1,7 +1,26 @@
-My name is Pedro Faria.
-My background is in Mathematics and Computer Science.
+**Introduction**
 
-I have several different interests, many of which focus on the use of software to tackle problems of some social and worldly relevance.
-If you are interested in taking a look at my projects, go to my website, at https://pedrodlafaria.github.io/ . It is currently under construction, however.
+My name is Pedro Faria and my background is mostly in Mathematics and Computer Science.
 
-You can reach me on my Linkedin profile: https://www.linkedin.com/in/pedrodlafaria/
+**Main professional activities**
+
+I have several different interests, but my activities over the past few years have revolved around AI, Software Development, and Computer Science in general.
+My past activities in AI have been mostly carried out by my teams at AKKA Research Benelux (Brussels, Belgium), for which reason you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my Linkedin page (below).
+
+
+**Personal projects on GitHub**
+
+I use github to host a few other personal projects and experiments. The most interesting of these is arguably a program analysis tool called JSMapper. It is written in Javascript and can analyze Javascript code and draw a few diagrams that depict the code structures (modules, classes, function call graph). It is the only truly active project.
+
+**Other interests of mine**
+
+I find program analysis a very interesting field in general. A subfield that also interests me is formal verification.
+
+
+I also have some interest in 
+
+
+
+** My Linkedin Page**
+
+https://www.linkedin.com/in/pedrodlafaria/
