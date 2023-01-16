@@ -29,6 +29,7 @@ Other areas that I find fascinating include:
 I also have some interest in Physics, and Computational Biology, but no time to work on anything in these domains.
 
 <br>
-
+<br>
+<br>
 
 **My Linkedin Page:**   https://www.linkedin.com/in/pedrodlafaria/
