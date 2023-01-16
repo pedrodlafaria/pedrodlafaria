@@ -22,7 +22,7 @@ I use github to host a few other personal projects and experiments. The most int
 I find program analysis a very interesting field in general. A subfield that also interests me is formal verification and automatic theorem proving.
 Recent AI developments (LLMs) have also opened the door to exciting new applications in software analysis and development.
 
-Other areas that I find fascinating include: Governance models, topics in Complexity Sciences (Economics, Finance, Business, etc). I have a few experiments here on gitHub around these topics.
+Other areas that I find fascinating include: Governance models, topics in Complexity Sciences (Economics, Finance, Business, etc). I have a few experiments here on GitHub around these topics.
 
 I also have some interest in Physics, and Computational Biology, but no time to work on anything in these domains.
 
