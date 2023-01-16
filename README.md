@@ -13,7 +13,7 @@ My past activities in AI have been mostly carried out by my teams at AKKA Resear
 
 ## Personal projects on GitHub
 
-I use github to host a few other personal projects and experiments. The most interesting of these is arguably a program analysis tool called JSMapper. It is written in Javascript and can analyze Javascript code and draw a few diagrams that depict the code structures (modules, classes, function call graph). It is the only truly active project.
+I use GitHub to host a few other personal projects and experiments. The most interesting of these is arguably a program analysis tool called JSMapper. It is written in Javascript and can analyze Javascript code and draw a few diagrams that depict the code structures (modules, classes, function call graph). It is the only truly active project.
 
 <br>
 
