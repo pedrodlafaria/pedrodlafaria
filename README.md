@@ -7,7 +7,7 @@ My name is Pedro Faria and my background is mostly in Mathematics and Computer S
 ## Main professional activities
 
 I have several different interests, but my activities over the past few years have revolved around AI and Neuroscience, Software Development, and Computer Science in general.
-My past activities in AI have been mostly carried out by my teams at AKKA Research Benelux (Brussels, Belgium), for which reason you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my [Linkedin page](https://www.linkedin.com/in/pedrodlafaria/).
+My past activities in AI have been mostly carried out by my teams at AKKA Research Benelux (Brussels, Belgium), for which reason you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my [Linkedin page](https://www.linkedin.com/in/pedrodlafaria/) and take a look at my Akka Research Benelux sections.
 
 <br>
 
