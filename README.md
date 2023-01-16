@@ -2,6 +2,8 @@
 
 My name is Pedro Faria and my background is mostly in Mathematics and Computer Science.
 
+<br>
+
 ## Main professional activities
 
 I have several different interests, but my activities over the past few years have revolved around AI and Neuroscience, Software Development, and Computer Science in general.
