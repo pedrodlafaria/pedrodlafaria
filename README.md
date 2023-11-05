@@ -7,6 +7,7 @@ My name is Pedro Faria and my background is mainly in Mathematics and Computer S
 ## Main professional activities and interests
 
 Software Development, AI, Computer-Assisted Reasoning, and Computer Science in general.
+
 My past activities in AI have been carried out in a professional context, while heading the research department at AKKA Benelux (Brussels, Belgium). For that reason, you will not find anything here. If you are interested in looking at those projects (videos and descriptions) go to my [Linkedin page](https://www.linkedin.com/in/pedrodlafaria/) and take a look at my Akka Research Benelux sections.
 
 A common theme in my background is my interest in computer-assisted analysis and reasoning (using AI and other techniques). I am currently very interested in the development of AI Assistants using LLMs combined with other techniques.
